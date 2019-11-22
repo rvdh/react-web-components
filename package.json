@@ -64,7 +64,7 @@
         "@storybook/addon-viewport": "^4.1.11",
         "@storybook/addons": "^4.1.11",
         "@storybook/react": "^4.1.11",
-        "@types/classnames": "^2.2.0",
+        "@types/classnames": "^2.2.9",
         "@types/enzyme": "^3.1.13",
         "@types/history": "^4.7.0",
         "@types/jest": "^23.3.14",
